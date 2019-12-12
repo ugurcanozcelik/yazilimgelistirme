@@ -9,7 +9,7 @@ class OgrenciRestServisiTest {
 
 	@Test
 	void testAll() {
-		fail("Not yet implemented");
+		
 	}
 
 	@Test
@@ -23,7 +23,7 @@ class OgrenciRestServisiTest {
 
 	@Test
 	void testNewEmployee2() {
-		fail("Not yet implemented");
+		
 	}
 
 }
