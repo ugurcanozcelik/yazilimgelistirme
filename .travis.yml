@@ -1,4 +1,4 @@
 language : java
-script : "mvn -f Ders5Proje/pom.xml clean install cobertura:cobertura"
+script : "mvn -f finalders4/pom.xml clean install cobertura:cobertura"
 jdk : 
   -openjdk8
